@@ -1,5 +1,8 @@
 _repo: Life-of-Sir-Walter-Scott-with-Abbotsford-Notanda_69330
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69330-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Carruthers, Robert
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5277
     wikipedia: https://en.wikipedia.org/wiki/William_Chambers_%28publisher%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69330#Life-of-Sir-Walter-Scott-with-Abbotsford-Notanda
 gutenberg_issued: '2022-11-11'
 identifiers:
   gutenberg: '69330'
